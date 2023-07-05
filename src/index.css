@@ -8,6 +8,11 @@ body {
     font-size: 5rem;
 }
 
+.minimalText {
+    font-weight: 100;
+    font-size: 2rem;
+}
+
 .red {
     font-weight: 700;
     color: red;
