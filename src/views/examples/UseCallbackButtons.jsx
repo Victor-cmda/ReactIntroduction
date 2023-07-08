@@ -11,4 +11,4 @@ const UseCallbackButtons = props => {
     )
 }
 
-export default React.memo(UseCallbackButtons)
+export default React.memo(UseCallbackButtons) 
